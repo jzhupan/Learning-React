@@ -1,4 +1,3 @@
 # Learning-React
-self-teaching React
+For this Repository I will be Self-teaching React to prepare for my next project.
 
-I will be following tutorials and try to learn React using TypeScript.
